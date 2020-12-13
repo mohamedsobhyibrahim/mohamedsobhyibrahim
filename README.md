@@ -26,3 +26,7 @@ I'm an ANDROID Developer (Java, Kotlin) with experience of working on a variety 
 - 💬 Ask me about anything [here](https://github.com/sobhymohamed/sobhymohamed/issues)
 
 ## &#x1f4c8; Github Stats & Top Languages
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sobhymohamed&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhymohamed&langs_count=8&theme=dark&hide_border=true&icon_color=fff)](https://github.com/alfayedoficial/github-readme-stats)
+<br />
