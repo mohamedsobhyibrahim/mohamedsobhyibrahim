@@ -17,3 +17,6 @@
 <br />
 
 Hi, I'm Mohamed Sobhy, an Android Developer ⭐ from Egypt.
+
+### OBJECTIVE 
+I'm an ANDROID Developer (Java, Kotlin) with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI and development clean code with teamwork. I have good Rest API, Retrofit, Room Database, Firebase, Google Play Services, Butterknife-Library and power to use Databinding  , Live Data , MutableLiveData and GitHub to work with a team.
