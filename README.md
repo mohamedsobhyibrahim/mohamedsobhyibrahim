@@ -28,5 +28,9 @@ I'm an ANDROID Developer (Java, Kotlin) with experience of working on a variety 
 ## &#x1f4c8; Github Stats & Top Languages
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sobhymohamed&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhymohamed&langs_count=8&theme=dark&hide_border=true&icon_color=fff)](https://github.com/alfayedoficial/github-readme-stats)
 <br />
+**Tools:**  
+<code><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"></code>
+<code><img height="30" src="https://www.apkmirror.com/wp-content/uploads/2020/06/91/5ee85ad3f2a41.png"></code>
+<code><img height="30" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_960_720.jpg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png"></code>
