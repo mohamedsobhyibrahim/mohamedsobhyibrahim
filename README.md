@@ -25,7 +25,7 @@ I'm an ANDROID Developer (Java, Kotlin) with experience of working on a variety 
 - 🌱 I’m currently learning [Coroutines kotlin](https://developer.android.com/kotlin/coroutines)
 - 💬 Ask me about anything [here](https://github.com/sobhymohamed/sobhymohamed/issues)
 
-## &#x1f4c8; Github Stats & Top Languages
+## &#x1f4c8; Github Stats 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sobhymohamed&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
 <br />
