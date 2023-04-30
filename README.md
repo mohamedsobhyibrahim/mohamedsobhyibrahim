@@ -18,7 +18,7 @@
 
 Hi, I'm Mohamed Sobhy, a Senior Android Developer ⭐ from Egypt.
 
-## &#x1f4c8; OBJECTIVE 
+## &# OBJECTIVE 
 I’m a Senior Android Developer with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle. My past work includes building user-focused, innovative, keep user security and performance UI and development clean code with teamwork.
 
 - 🔭 I’m currently working at [Paymob](https://www.paymob.com/en)
