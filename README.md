@@ -16,14 +16,33 @@
 <br />
 <br />
 
-Hi, I'm Mohamed Sobhy, an Android Developer ⭐ from Egypt.
+Hi, I'm Mohamed Sobhy, a Senior Android Developer ⭐ from Egypt.
 
 ### OBJECTIVE 
-I'm an ANDROID Developer (Java, Kotlin) with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI and development clean code with teamwork. I have good Rest API, Retrofit, Room Database, Firebase, Google Play Services, Butterknife-Library and power to use Databinding  , Live Data , MutableLiveData and GitHub to work with a team.
+-------------------------------------------------------------------------------------------------------------------------
+I’m a Senior Android Developer with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle. My past work includes building user-focused, innovative, keep user security and performance UI and development clean code with teamwork.
 
 - 🔭 I’m currently working at [Paymob](https://www.paymob.com/en)
 - 🌱 I’m currently learning [Coroutines kotlin](https://developer.android.com/kotlin/coroutines)
 - 💬 Ask me about anything [here](https://github.com/sobhymohamed/sobhymohamed/issues)
+
+### SKILLS
+-------------------------------------------------------------------------------------------------------------------------
+### Programming Languages
+Java, Kotlin.
+
+### Architecture Patterns
+MVC, MVP and MVVM.
+
+### Third Party Library
+Navigation components, Data Binding, View Binding, Live Data, Firebase, Retrofit, Java RX, Coroutines, Material Design, Android SDKs, Google APIs, Volley, and offline cashing.
+
+### Fintech skills
+EMV and Card systems, Exposure to encryption techniques such as DUKPT, Master Session.
+
+### Others
+GitHub, GitLab and Bitbucket.
+
 
 ## &#x1f4c8; Github Stats 
 
