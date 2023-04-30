@@ -18,16 +18,14 @@
 
 Hi, I'm Mohamed Sobhy, a Senior Android Developer ⭐ from Egypt.
 
-### OBJECTIVE 
--------------------------------------------------------------------------------------------------------------------------
+## &#x1f4c8; OBJECTIVE 
 I’m a Senior Android Developer with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle. My past work includes building user-focused, innovative, keep user security and performance UI and development clean code with teamwork.
 
 - 🔭 I’m currently working at [Paymob](https://www.paymob.com/en)
 - 🌱 I’m currently learning [Coroutines kotlin](https://developer.android.com/kotlin/coroutines)
 - 💬 Ask me about anything [here](https://github.com/sobhymohamed/sobhymohamed/issues)
 
-### SKILLS
--------------------------------------------------------------------------------------------------------------------------
+## &#x1f4c8; SKILLS
 ### Programming Languages
 Java, Kotlin.
 
@@ -44,9 +42,9 @@ EMV and Card systems, Exposure to encryption techniques such as DUKPT, Master Se
 GitHub, GitLab and Bitbucket.
 
 
-## &#x1f4c8; Github Stats 
+## &#x1f4c8; More
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsobhyibrahim&show_icons=true&locale=en&layout=compact" alt="mohamedsobhyibrahim" /></p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sobhymohamed&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
-<br />
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohamedsobhyibrahim&show_icons=true&locale=en" alt="mohamedsobhyibrahim" /></p>
 **Tools:**  
 <code><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"></code>
